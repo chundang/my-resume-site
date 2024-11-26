@@ -5,7 +5,7 @@ export default function Resume() {
   return (
     <div className="container mx-auto p-4 space-y-6 bg-gray-50 min-h-screen">
       <header className="text-center mb-6">
-        <h1 className="text-4xl font-bold text-gray-800">김구름</h1>
+        <h1 className="text-4xl font-bold text-gray-800">전규민</h1>
         <p className="text-xl text-gray-600">데브옵스 엔지니어</p>
       </header>
 
@@ -48,7 +48,7 @@ export default function Resume() {
           <CardTitle className="text-2xl text-gray-700">학력</CardTitle>
         </CardHeader>
         <CardContent>
-          <h3 className="text-lg font-semibold text-gray-800">구름대학교</h3>
+          <h3 className="text-lg font-semibold text-gray-800">인하대학교</h3>
           <p className="text-gray-600">컴퓨터공학과</p>
           <p className="text-sm text-gray-500">졸업</p>
         </CardContent>
